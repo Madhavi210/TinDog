@@ -1,5 +1,5 @@
 # TinDog
 
-Preview 👇🏻
+Preview  👇
 
 https://madhavi210.github.io/TinDog/
